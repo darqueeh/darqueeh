@@ -1,16 +1,37 @@
-## Hi there 👋
+### Apenas um aluno que estuda na Etec.
+  
+---
 
-<!--
-**darqueeh/darqueeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Meu Blog & Conteúdos Educacionais
 
-Here are some ideas to get you started:
+tenho não
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+
+jogador de jjs
+skill builder no jjs 
+empregado (lavo a louça em casa)
+salário mensal de R$100.00 + vale moradia, vale comida (eu q faço), vale transporte (minha bike), vale estudo, vale computador, vale celular, vale roupas, vale vida.
+
+---
+
+## 🛠️ Tecnologias & Conteúdos
+
+qq isso?
+
+### **Desenvolvimento Web & Lógica**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+### **Banco de Dados & Modelagem**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Modelagem ER](https://img.shields.io/badge/Modelagem-Conceitual%20%26%20L%C3%B3gica-blue?style=flat-square)
+
+---
+
+## 📬 Vamos nos conectar?
+
+não quero
