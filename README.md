@@ -9,15 +9,15 @@ tenho não
 
 ## 🚀 Sobre mim
 
-*jogador de jjs*.
+*jogador de jjs*
 
-*skill builder no jjs *.
+*skill builder no jjs*
 
-*empregado (lavo a louça em casa)*.
+*empregado (lavo a louça em casa)*
 
-*salário mensal de R$100.00 + vale moradia, vale comida (eu q faço), vale transporte (minha bike), vale estudo, vale computador, vale celular, vale roupas, vale vida.*.
+*salário mensal de R$100.00 + vale moradia, vale comida (eu q faço), vale transporte (minha bike), vale estudo, vale computador, vale celular, vale roupas, vale vida.*
 
-*pro player de elden ring*.
+*pro player de elden ring*
 
 ---
 
