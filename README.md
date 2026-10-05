@@ -3,9 +3,7 @@
 ---
 
 ## 🌐 Meu Blog & Conteúdos Educacionais
-
-tenho não
----
+nn tenho
 
 ## 🚀 Sobre mim
 
