@@ -9,10 +9,11 @@ tenho não
 
 ## 🚀 Sobre mim
 
-jogador de jjs
-skill builder no jjs 
-empregado (lavo a louça em casa)
-salário mensal de R$100.00 + vale moradia, vale comida (eu q faço), vale transporte (minha bike), vale estudo, vale computador, vale celular, vale roupas, vale vida.
+*jogador de jjs
+*skill builder no jjs 
+*empregado (lavo a louça em casa)
+*salário mensal de R$100.00 + vale moradia, vale comida (eu q faço), vale transporte (minha bike), vale estudo, vale computador, vale celular, vale roupas, vale vida.
+*pro player de elden ring
 
 ---
 
@@ -28,7 +29,6 @@ qq isso?
 
 ### **Banco de Dados & Modelagem**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Modelagem ER](https://img.shields.io/badge/Modelagem-Conceitual%20%26%20L%C3%B3gica-blue?style=flat-square)
 
 ---
 
